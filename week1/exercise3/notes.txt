@@ -1,0 +1,4 @@
+It seems like the camera can track RGB values from my phone surprisingly well,
+as long as the phone isn't reflecting the bright light from outside the window.
+
+Increasing the phone's brightness helps the accuracy.
