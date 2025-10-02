@@ -1,0 +1,5 @@
+After changing the lighting conditions, the thresholding still seems
+to work for both HSV and RGB, surprisingly.
+
+Perhaps this is because my ranges were pretty big, and nothing else
+in the image was close in value to the orange color of the foam earplug.
